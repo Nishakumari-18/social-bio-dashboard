@@ -76,9 +76,9 @@ Backend runs at `http://localhost:5000`
 Open a new terminal:
 
 ```bash
-cd frontend
+cd client
 npm install
-npm start
+npm run dev
 ```
 
 Frontend runs at `http://localhost:3000`
